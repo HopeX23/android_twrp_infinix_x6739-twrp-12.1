@@ -1,2 +1,5 @@
-# android_twrp_infinix_x6739-twrp-12.1
- 
+#
+# Copyright (C) 2024 The Android Open Source Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
