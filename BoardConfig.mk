@@ -147,7 +147,7 @@ TW_EXCLUDE_APEX := true
 TARGET_USES_MKE2FS := true # Use mke2fs to create ext4 images
 
 # Maintainer/Version
-TW_DEVICE_VERSION := LayeardTeam
+TW_DEVICE_VERSION := HopeX23
 
 # Set brightness path and level
 TW_FRAMERATE := 120
